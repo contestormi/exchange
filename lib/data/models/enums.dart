@@ -1,0 +1,1 @@
+enum ChangedSymbol { first, second }
